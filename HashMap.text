@@ -1,0 +1,11 @@
+import java.util.*;
+
+HashMap<Integer, String> hm = new HashMap<Integer, String>();
+
+add --> .put(key, object), .putAll(Map map)
+replace --> .replace(key, object)
+get -> .get(key)
+get collection to iterat --> .entrySet()
+    --> .containsKey(key), .containsValue(value)
+remove --> .remove(key)
+.size()

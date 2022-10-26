@@ -1,0 +1,9 @@
+import java.util.*;
+LinkedList<Integer> ll = new LinkedList<Integer>();
+
+// Linked List
+// Add --> .add(element), .add(index, element), .addFirst(e), .addLst(e)
+// get --> .get(index), .getFirst(), .getLast()
+// set --> .set(index, element)
+// index --> .indexOf(element)
+//  remove --> .remove(index)
